@@ -1,0 +1,10 @@
+var movie = 'The One';
+var isEntertaining = true;
+movie = 'Shrek';
+var num4 = 10;
+var num6 = 3;
+var product = 30;
+var favoriteFoods = ['Chicken Wings', 'Pizza', 'Mac n Cheese'];
+favoriteFoods.shift();
+var n = movie.length;
+  console.log('Movie string length is:' + movie.length);
